@@ -1,0 +1,14 @@
+{
+  "id": "network-security-monitoring-lab",
+  "title": "네트워크 보안 모니터링 랩",
+  "period": "2027 ~ ",
+  "category": "네트워크 보안",
+  "summary": "CCNA와 정보보호 학습 내용을 바탕으로 보안 로그를 분석하는 프로젝트.",
+  "stack": ["Python", "Linux", "Wireshark", "Nmap"],
+  "features": [
+    "로그 파일에서 의심 이벤트 탐지 기능",
+    "탐지 규칙으로 위험도 분류 기능",
+    "분석 결과를 JSON 리포트로 저장후 보여주는 기능"
+  ],
+  "githubUrl": "https://github.com/battlked/network-security-monitoring-lab" 
+}
