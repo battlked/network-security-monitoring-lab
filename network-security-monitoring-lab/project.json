@@ -1,7 +1,7 @@
 {
   "id": "network-security-monitoring-lab",
   "title": "네트워크 보안 모니터링 랩",
-  "period": "2027",
+  "period": "2027 ~ ",
   "category": "네트워크 보안",
   "summary": "CCNA와 정보보호 학습 내용을 바탕으로 보안 로그를 분석하는 프로젝트.",
   "stack": ["Python", "Linux", "Wireshark", "Nmap"],
